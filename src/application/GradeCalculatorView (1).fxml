@@ -28,11 +28,7 @@
             </Label>
          </children>
       </HBox>
-      <Label fx:id = "ProjectErrorLabel" text="Error Message Goes here" textFill = "RED">
-         <VBox.margin>
-            <Insets left="10.0" />
-         </VBox.margin>
-      </Label>
+
       <HBox>
          <children>
             <Label prefHeight="17.0" prefWidth="201.0" text=" Required Coding Challenges Passed">
